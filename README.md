@@ -8,7 +8,7 @@ This is a reproduction of imgur react client, created within Stephen Grider's co
 ###Getting Started###
 
 ```
-	> git clone
+	> git clone https://github.com/jacec/imgur-client.git
 	> cd ReactStarter
 	> npm install
 	> gulp
